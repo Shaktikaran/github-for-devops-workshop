@@ -14,3 +14,23 @@ git add
   24 rm .\testing.py
  
   26 git restore testing.py
+  32 git status
+  33 git rm --cached git command.txt
+  34 git status
+  35 git remote add origin https://github.com/Shaktikaran/github-for-devops-workshop.git
+  36 git remote -v
+  37 git push origin master
+  38 git push origin master
+  39 git push origin master
+  40 git remote -v
+  41 dir
+  42 cd ..
+  43 mkdir shaktigitworkshopdemo
+  44 dir
+  45 cd .\shaktigitworkshopdemo\
+  46 dir
+  47 git clone https://github.com/Shaktikaran/github-for-devops-workshop.git
+  48 dir
+  49 cd .\github-for-devops-workshop\
+  50 dir
+  51 dir
